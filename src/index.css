@@ -1,0 +1,62 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Permanent+Marker&display=swap');
+
+@theme {
+  --font-headline: "Noto Serif", serif;
+  --font-body: "Be Vietnam Pro", sans-serif;
+  --font-label: "Be Vietnam Pro", sans-serif;
+  --font-signature: "Permanent Marker", cursive;
+
+  --color-primary: #805062;
+  --color-on-primary: #ffffff;
+  --color-primary-container: #ffe3eb;
+  --color-on-primary-container: #8c5b6d;
+  
+  --color-secondary: #735c00;
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #fed65b;
+  --color-on-secondary-container: #745c00;
+  
+  --color-tertiary: #5f5e5e;
+  --color-tertiary-container: #ece9e9;
+  
+  --color-background: #fbf9f9;
+  --color-on-background: #1b1c1c;
+  
+  --color-surface: #fbf9f9;
+  --color-on-surface: #1b1c1c;
+  --color-surface-variant: #e4e2e2;
+  --color-on-surface-variant: #4d4447;
+  
+  --color-outline: #7f7478;
+  --color-outline-variant: #d0c3c7;
+
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-xxl: 2rem;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-on-surface font-body selection:bg-primary-container selection:text-on-primary-container;
+  }
+}
+
+@layer utilities {
+  .luxury-shadow {
+    box-shadow: 0 20px 50px -12px rgba(128, 80, 98, 0.06);
+  }
+  .shadow-gold {
+    box-shadow: 0 10px 30px -10px rgba(115, 92, 0, 0.2);
+  }
+  .glassmorphism {
+    @apply backdrop-blur-md bg-white/80;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

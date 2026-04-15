@@ -1,0 +1,361 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "bookAppointment": "Book Appointment"
+  },
+  "home": {
+    "about": {
+      "subtitle": "The Artist",
+      "title": "Archana Singh Chauhan",
+      "description": "With over 2 years of professional excellence and a lifelong passion for beauty, I believe that every woman deserves to see her inner light reflected in the mirror. My journey from a dedicated housewife to a certified beauty expert is fueled by the desire to empower through artistry.",
+      "link": "Read My Full Story"
+    },
+    "services": {
+      "title": "Our Signature Services",
+      "subtitle": "Meticulously crafted beauty experiences tailored to your unique features.",
+      "link": "Learn More"
+    },
+    "portfolio": {
+      "title": "Recent Work",
+      "subtitle": "A glimpse into our world of transformation.",
+      "link": "View Full Portfolio"
+    },
+    "testimonials": {
+      "subtitle": "Kind Words",
+      "title": "Voices of Beauty",
+      "description": "Real stories from our wonderful clients who trusted us with their transformation.",
+      "link": "Read More Success Stories",
+      "items": [
+        {
+          "name": "Geeta",
+          "role": "Bridal Client",
+          "content": "Archana made me feel like royalty on my wedding day. Her attention to detail is unmatched, and the makeup stayed flawless for 12 hours straight! I couldn't have asked for a better artist for my big day."
+        },
+        {
+          "name": "Harshita",
+          "role": "Nail Art Enthusiast",
+          "content": "The nail art is pure perfection. I've never seen such precision and creativity in Vadodara. She transformed my simple request into a masterpiece of marble and gold leaf."
+        },
+        {
+          "name": "Rajshri",
+          "role": "Traditional Event",
+          "content": "Her hair styling skills are incredible. My traditional braid with fresh flowers was the talk of the event. Archana has a way of blending tradition with modern grace effortlessly."
+        },
+        {
+          "name": "Anjali",
+          "role": "HD Makeup Client",
+          "content": "Professional, punctual, and extremely talented. The HD makeup was flawless under the camera lights and looked completely natural in person. Highly recommend her for any professional shoot."
+        },
+        {
+          "name": "Rubi",
+          "role": "Party Glamour",
+          "content": "I booked a party makeup session and was blown away. She really understands different skin tones and textures. I felt so confident and beautiful throughout the evening."
+        },
+        {
+          "name": "Pooja",
+          "role": "Studio Regular",
+          "content": "The studio atmosphere is so serene and welcoming. Archana's personalized care is what sets her apart. She doesn't just apply makeup; she crafts a look that reflects your personality."
+        },
+        {
+          "name": "Nisha",
+          "role": "Bridal Client",
+          "content": "I am so glad I chose Archana for my special day. Her expertise in bridal makeup is evident in the way she enhances natural beauty without making it look heavy. Truly a professional!"
+        }
+      ]
+    },
+    "instagram": {
+      "subtitle": "Follow Our Journey",
+      "title": "On Instagram",
+      "description": "Get a daily dose of beauty inspiration, behind-the-scenes glimpses, and our latest transformations."
+    }
+  },
+  "booking": {
+    "title": "Book Your Session",
+    "subtitle": "Select a date and time that works for you.",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "availableSlots": "Available Slots",
+    "noSlots": "No slots available for this date.",
+    "confirm": "Confirm Booking",
+    "success": "Booking Request Sent!",
+    "successDesc": "We'll contact you shortly to confirm your appointment.",
+    "details": "Appointment Details",
+    "bookAnother": "Book another session",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "bookTrial": "Book a Trial",
+    "days": {
+      "su": "Su",
+      "mo": "Mo",
+      "tu": "Tu",
+      "we": "We",
+      "th": "Th",
+      "fr": "Fr",
+      "sa": "Sa"
+    },
+    "whatsapp": "WhatsApp",
+    "call": "Call"
+  },
+  "hero": {
+    "subtitle": "Artistry in Every Stroke",
+    "title": "Enhancing Your",
+    "titleItalic": "Natural Beauty",
+    "titleSuffix": "with Grace",
+    "description": "Certified Makeup Artist, Hair Stylist & Nail Art Expert delivering bespoke luxury beauty experiences across Vadodara & Ahmedabad.",
+    "bookAppointment": "Book Appointment",
+    "viewServices": "View Services"
+  },
+  "stats": {
+    "happyClients": "Happy Clients",
+    "yearsExperience": "Years Experience",
+    "makeupServices": "Makeup Services",
+    "locations": "Vadodara & Ahmedabad"
+  },
+  "services": {
+    "offerings": "Our Offerings",
+    "title": "Curated Beauty Experiences",
+    "subtitle": "Elevate your special moments with our professional makeup and styling services. We blend traditional grace with modern sophistication.",
+    "homeService": "Home Service Available",
+    "ctaTitle": "Ready to Shine?",
+    "ctaDesc": "Book your slot today for an unparalleled transformation at our studio or in the comfort of your home.",
+    "ctaButton": "Schedule Your Appointment",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about our services, preparation, and care.",
+      "items": [
+        {
+          "question": "How should I prepare for my makeup appointment?",
+          "answer": "Please arrive with a clean, moisturized face. Avoid any heavy exfoliation 24 hours before. If you have specific inspiration photos or your outfit/jewelry, having them ready helps us tailor the look perfectly."
+        },
+        {
+          "question": "What can I expect during a bridal trial?",
+          "answer": "A trial is a 2-3 hour session where we test different looks, discuss your preferences, and finalize the perfect aesthetic for your big day. We recommend wearing a top similar in color to your bridal outfit."
+        },
+        {
+          "question": "How long does a typical hair and makeup session take?",
+          "answer": "For party makeup and styling, expect about 1.5 to 2 hours. Bridal transformations typically take 3 to 4 hours to ensure every detail is flawless."
+        },
+        {
+          "question": "Do you offer home services for small groups?",
+          "answer": "Yes! We provide home services for bridal bookings and group packages (3+ people) in Vadodara and Ahmedabad. Travel fees may apply depending on the location."
+        },
+        {
+          "question": "What is the best aftercare for gel nail extensions?",
+          "answer": "Avoid using your nails as tools, wear gloves when using harsh chemicals, and apply cuticle oil daily. We recommend a refill every 2-3 weeks to maintain the health of your natural nails."
+        }
+      ]
+    },
+    "bridal": {
+      "title": "Bridal Makeup",
+      "desc": "A bespoke luxury experience designed to make you glow on your most significant day with long-lasting radiance."
+    },
+    "hd": {
+      "title": "HD Makeup",
+      "desc": "High-definition application that looks flawless under the camera lens and in person. Perfect for portraits."
+    },
+    "engagement": {
+      "title": "Engagement Makeup",
+      "desc": "Soft, romantic, and ethereal looks tailored for your engagement ceremony. We focus on enhancing your natural features."
+    },
+    "party": {
+      "title": "Party Makeup",
+      "desc": "Glamorous and vibrant styles for evening events, cocktail parties, and grand celebrations."
+    },
+    "hairStyling": {
+      "title": "Hair Styling",
+      "desc": "From intricate traditional braids to contemporary waves, we style your hair to complement your look."
+    },
+    "hairChemical": {
+      "title": "Hair Chemical Treatment",
+      "desc": "Professional chemical treatments including smoothing, straightening, and deep conditioning for healthy hair."
+    },
+    "hairCutting": {
+      "title": "Hair Cutting",
+      "desc": "Precision hair cutting and styling tailored to your face shape, hair texture, and personal style."
+    },
+    "nailArt": {
+      "title": "Nail Art",
+      "desc": "Elegant designs and professional finishing to add that perfect touch of detail to your overall appearance."
+    },
+    "saree": {
+      "title": "Saree Draping",
+      "desc": "Professional draping services ensuring comfort and perfect silhouettes for all types of traditional wear."
+    },
+    "threading": {
+      "title": "Eyebrow Threading",
+      "desc": "Expert eyebrow shaping and threading for a clean, defined, and symmetrical look that frames your face."
+    },
+    "guest": {
+      "title": "Guest Makeup Packages",
+      "desc": "Ensuring every guest at your event looks their absolute best. We offer special group rates for bridesmaids, family members, and wedding guests."
+    }
+  },
+  "footer": {
+    "description": "Crafting timeless beauty through meticulous artistry and personalized care. Your vision, our expertise.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Join our VIP list for seasonal beauty trends and exclusive offers.",
+    "join": "Join",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "thought": {
+    "title": "Thought of the Day",
+    "quote": "Beauty begins the moment you decide to be yourself.",
+    "author": "Coco Chanel"
+  },
+  "portfolio": {
+    "subtitle": "Our Craft",
+    "title": "The Art of Transformation",
+    "description": "Explore our curated gallery of bridal artistry, avant-garde hair styling, and precision nail design. Every look is a unique narrative of elegance.",
+    "searchPlaceholder": "Search services or styles...",
+    "filters": {
+      "all": "All Works",
+      "makeup": "Makeup",
+      "hair": "Hair Styling",
+      "nails": "Nail Art",
+      "bridal": "Bridal Makeup",
+      "hd": "HD Makeup",
+      "engagement": "Engagement Makeup",
+      "party": "Party Makeup",
+      "chemical": "Hair Chemical",
+      "cutting": "Hair Cutting",
+      "saree": "Saree Draping",
+      "threading": "Threading"
+    },
+    "beforeAfter": {
+      "subtitle": "The Mastery",
+      "title": "Visible Excellence",
+      "description": "Witness the power of expert styling. Our \"Before & After\" transformations highlight our commitment to natural enhancement and professional precision.",
+      "before": "Before",
+      "after": "After",
+      "eventReady": "Event Ready Glamour",
+      "eventReadyDesc": "Focus: Skin evening, structural contouring, and classic Hollywood waves.",
+      "nailRecon": "Nail Art Reconstruction",
+      "nailReconDesc": "Focus: Cuticle care, extension building, and hand-painted bespoke art."
+    },
+    "cta": {
+      "title": "Inspired by our work?",
+      "description": "Let's collaborate to create your perfect look. Book your personalized session today.",
+      "button": "Book Your Appointment"
+    }
+  },
+  "testimonials": {
+    "subtitle": "Client Stories",
+    "title": "Voices of Beauty",
+    "description": "The greatest reward for our artistry is the confidence and joy of our clients. Read about their experiences at The Archana Studio.",
+    "cta": {
+      "title": "Share Your Experience",
+      "description": "Were you recently styled by Archana? We'd love to hear your story and feature it in our gallery.",
+      "submit": "Submit a Review",
+      "viewWork": "View Our Work"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "The Heart Behind the Art",
+      "title": "Meet Archana Singh Chauhan",
+      "p1": "For over 2 years, my life was a beautiful tapestry woven with the threads of family and home. As a dedicated housewife, I mastered the art of nurturing and the grace of resilience.",
+      "quote": "My journey from the heart of a home to the pinnacle of beauty expertise is fueled by a simple belief: every woman deserves to see her inner light reflected in the mirror.",
+      "p2": "Transitioning into the professional beauty industry 2 years ago wasn't just a career shift; it was the awakening of a lifelong passion. Today, I combine my life experiences with refined technical skills to offer a sanctuary of transformation at The Archana Studio."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "quote": "Transforming your beauty for every occasion."
+    },
+    "video": {
+      "title": "The Art of Transformation",
+      "subtitle": "Experience the serene atmosphere of The Archana Studio."
+    },
+    "why": {
+      "title": "Why Choose Archana",
+      "subtitle": "Combining years of professional discipline with an artist's touch.",
+      "excellence": {
+        "title": "2 Years of Excellence",
+        "desc": "My journey in the professional beauty industry has taught me the most important skill: listening. I understand the pace of your life and the importance of feeling confident in your skin."
+      },
+      "care": {
+        "title": "Personalized Care",
+        "desc": "No two faces are the same. I craft bespoke looks that honor your unique features and personality."
+      },
+      "artistry": {
+        "title": "Professional Artistry",
+        "desc": "Trained in the latest global techniques with a focus on elegant, timeless aesthetics."
+      },
+      "experience": {
+        "title": "The Studio Experience",
+        "desc": "A private, serene space designed for relaxation and transformation."
+      }
+    },
+    "studios": {
+      "title": "Visit Our Studios",
+      "subtitle": "Conveniently located in Vadodara and Ahmedabad to serve you better."
+    },
+    "cta": {
+      "title": "Ready to define your radiance?",
+      "description": "Book a consultation today and let's begin your personalized beauty journey together.",
+      "schedule": "Schedule a Session",
+      "portfolio": "View Our Portfolio"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a question or ready to book? We'd love to hear from you.",
+    "info": {
+      "title": "Contact Information",
+      "desc": "Reach out to us through any of these channels. We typically respond within 2 hours.",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "faq": {
+      "subtitle": "Common Inquiries",
+      "title": "Frequently Asked Questions",
+      "description": "Everything you need to know about our services, booking process, and studio policies.",
+      "items": [
+        {
+          "q": "What services do you offer?",
+          "a": "We specialize in Bridal Makeup, HD Makeup, Engagement and Party Makeup, Hair Styling, Hair Chemical Treatments, Precision Hair Cutting, Nail Art, Saree Draping, and Eyebrow Threading."
+        },
+        {
+          "q": "Do you provide home services?",
+          "a": "Yes, we offer professional home services for bridal and group bookings in Vadodara and Ahmedabad. Please mention your location when inquiring."
+        },
+        {
+          "q": "How far in advance should I book for a wedding?",
+          "a": "For bridal services, we recommend booking at least 3-6 months in advance to ensure availability on your special day, especially during the peak wedding season."
+        },
+        {
+          "q": "What is your cancellation policy?",
+          "a": "We require at least 48 hours' notice for cancellations or rescheduling. Deposits for bridal bookings are non-refundable but may be adjusted for a future date depending on availability."
+        },
+        {
+          "q": "Do you offer group packages?",
+          "a": "Yes! We have special Guest Makeup Packages for bridesmaids, family members, and wedding guests. Contact us for group rates."
+        },
+        {
+          "q": "What products do you use?",
+          "a": "We use only premium, high-definition professional products from international brands to ensure a flawless, long-lasting look that is safe for all skin types."
+        }
+      ]
+    }
+  }
+}
